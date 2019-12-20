@@ -17,7 +17,7 @@ After that there are 2 `println` lines are mention that simply prints these line
  ### DEFINING CLOSURE
  
  
- ####### line no 14 of main.rs file
+ ###### line no 14 of main.rs file
  `let condition = |x:i32|` the `x:i32` written in straight line ` |   | ` these lines are called closure these are a
 type of function without any name and it make `condtion` a name of a veriable and **function** now.
 
