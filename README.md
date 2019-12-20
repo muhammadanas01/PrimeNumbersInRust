@@ -7,6 +7,7 @@ This program is a very basic level program uses closure and give you the use of 
 
 After that there are 2 `println` lines are mention that simply prints these lines on console
 
+###### line no 9 to 11 og main.rs file
 ```
     let mut y = String::new();
     io::stdin().read_line(&mut y);
